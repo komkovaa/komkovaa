@@ -20,3 +20,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?komkovaa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
