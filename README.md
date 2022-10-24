@@ -22,4 +22,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komkovaa)](https://github.com/anuraghazra/github-readme-stats&hide=stars$theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komkovaa&hide=stars$theme=radical)](https://github.com/anuraghazra/github-readme-stats)
