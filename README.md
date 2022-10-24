@@ -6,8 +6,7 @@
 
 Связаться со мной: 
 
-E-mail: komkova.ar@gmail.com
-
+E-mail: komkova.ar@gmail.com  
 Телеграм: https://t.me/komkovaa
 
 Языки:
